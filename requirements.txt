@@ -5,4 +5,4 @@ pandas
 scikit_learn
 streamlit
 yahoo_fin
-tenserflow
+tensorflow
