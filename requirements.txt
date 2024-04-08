@@ -1,8 +1,0 @@
-keras
-matplotlib
-numpy
-pandas
-scikit_learn
-streamlit
-yahoo_fin
-tensorflow
